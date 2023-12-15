@@ -21,3 +21,18 @@ Consigli
 - Iniziate stampando un console.log('JS OK') per assicurarvi che la pagina sia  correttamente collegata.
 - Commentate ogni micro step e subito dopo verificate col (console.log())
 - Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
+
+---
+# Problema scomposto in passaggi
+
+1.Prendo l'elemento nell'html
+
+2.Chiedo all'utente il nome e creo una variabile
+
+3.Chiedo il cognome ecreo una variabile
+
+4.Chiedo il colore preferito e creo una variabile
+
+5.Creo una variabile password con somma delle variabili precedenti + il numero
+
+6.Inserisco la password nell'elemento
